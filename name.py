@@ -1,1 +1,1 @@
-aman
+print("Hello World")
